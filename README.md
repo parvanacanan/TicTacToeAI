@@ -1,6 +1,6 @@
 # TicTacToeAI
 Generalized Tic-Tac-Toe AI
-📋 Contents
+Contents
 
 About the Project
 
@@ -18,14 +18,14 @@ Tests
 
 Project Structure
 
-🎯 About the Project
+About the Project
 
 This project implements an AI agent for a generalized Tic-Tac-Toe game. The project is written in Swift and designed for the iOS platform.
 
 Course: Adversarial Search & AI
 Assignment: Homework 2 – Generalized Tic-Tac-Toe
 
-✨ Features
+ Features
 
 ✅ m×m board size (default: 3×3)
 
@@ -43,7 +43,7 @@ Assignment: Homework 2 – Generalized Tic-Tac-Toe
 
 ✅ Fully programmatic UI (no Storyboards)
 
-🛠 Installation
+ Installation
 Requirements
 
 macOS 12.0+
